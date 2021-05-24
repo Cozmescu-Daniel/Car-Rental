@@ -11,4 +11,12 @@ C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.pdb
 C:\Users\danut\source\repos\Car Service\bin\Debug\Database.mdf
 C:\Users\danut\source\repos\Car Service\bin\Debug\Database_log.ldf
 C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form2.resources
-C:\Users\danut\source\repos\Car Service\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.Chromium.Win-x64.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.Core.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.Logging.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.WinForms.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\protobuf-net.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\protobuf-net.Reflection.dll
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.exe.config
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.csproj.CopyComplete

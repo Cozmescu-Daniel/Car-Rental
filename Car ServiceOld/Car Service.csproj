@@ -50,8 +50,29 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DotNetBrowser">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\DotNetBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetBrowser.Chromium.Win-x64">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\DotNetBrowser.Chromium.Win-x64.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetBrowser.Core">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\DotNetBrowser.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetBrowser.Logging">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\DotNetBrowser.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetBrowser.WinForms">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\DotNetBrowser.WinForms.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net.Reflection">
+      <HintPath>..\..\..\appdata\local\microsoft\visualstudio\16.0_c23a70b7\extensions\rjcq52r2.b3p\Library\bin\Release\net45\protobuf-net.Reflection.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
