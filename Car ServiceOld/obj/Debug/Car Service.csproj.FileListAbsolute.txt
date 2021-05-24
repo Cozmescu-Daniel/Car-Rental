@@ -1,0 +1,14 @@
+C:\Users\danut\source\repos\Car Service\bin\Debug\Car Service.exe.config
+C:\Users\danut\source\repos\Car Service\bin\Debug\Car Service.exe
+C:\Users\danut\source\repos\Car Service\bin\Debug\Car Service.pdb
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.csprojAssemblyReference.cache
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form1.resources
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Properties.Resources.resources
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.csproj.GenerateResource.cache
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.csproj.CoreCompileInputs.cache
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.exe
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.pdb
+C:\Users\danut\source\repos\Car Service\bin\Debug\Database.mdf
+C:\Users\danut\source\repos\Car Service\bin\Debug\Database_log.ldf
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form2.resources
+C:\Users\danut\source\repos\Car Service\bin\Debug\Microsoft.Web.WebView2.Core.dll
