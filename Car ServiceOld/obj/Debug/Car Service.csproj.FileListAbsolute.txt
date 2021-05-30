@@ -18,5 +18,12 @@ C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.Logging.dll
 C:\Users\danut\source\repos\Car Service\bin\Debug\DotNetBrowser.WinForms.dll
 C:\Users\danut\source\repos\Car Service\bin\Debug\protobuf-net.dll
 C:\Users\danut\source\repos\Car Service\bin\Debug\protobuf-net.Reflection.dll
-C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.exe.config
 C:\Users\danut\source\repos\Car Service\obj\Debug\Car Service.csproj.CopyComplete
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form3.resources
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form4.resources
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form5.resources
+C:\Users\danut\source\repos\Car Service\bin\Debug\log4net.config
+C:\Users\danut\source\repos\Car Service\bin\Debug\log4net.dll
+C:\Users\danut\source\repos\Car Service\bin\Debug\log4net.xml
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form6.resources
+C:\Users\danut\source\repos\Car Service\obj\Debug\Car_Service.Form7.resources
